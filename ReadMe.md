@@ -7,8 +7,10 @@
 The Image Disabler Chrome Extension allows you to disable and enable images on any website. When enabled, the extension blocks all images on the current active tab, providing a text-only browsing experience. When disabled, the images are restored, giving you the full visual experience.
 
 ## Without ImgDisabler
+
 ![Example Screenshot](img/sample-unblocked-img.png "Images Unblocked")
 ## With ImgDisabler
+
 ![Example Screenshot](img/sample-blocked-img.png "Images Blocked")
 
 ## Features 
