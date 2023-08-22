@@ -1,4 +1,4 @@
-# Image Disabler Chrome Extension
+# ImgDisabler Chrome Extension
 
 ![Extension Icon](img/icon48.png)
 
